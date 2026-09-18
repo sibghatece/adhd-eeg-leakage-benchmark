@@ -1,10 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the associated paper."
-title: "Why EEG classifiers for ADHD do not generalise: a leakage-controlled benchmark of ten method families across five public datasets"
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "Khan"
-    given-names: "Sibghatullah I."
+  - family-names: Khan
+    given-names: Sibghatullah I.
     affiliation: "Sreenidhi Institute of Science and Technology, Hyderabad, India"
-    email: sibghatikhan@gmail.com
+    orcid: "https://orcid.org/0000-0003-1263-8100"
+title: "Why EEG classifiers for ADHD do not generalise: a leakage-controlled benchmark of ten method families across five public datasets"
+version: v1.1
+date-released: 2026-09-18
 license: MIT
-year: 2026
+doi: 10.5281/zenodo.22837115
+repository-code: "https://github.com/sibghatece/adhd-eeg-leakage-benchmark"
