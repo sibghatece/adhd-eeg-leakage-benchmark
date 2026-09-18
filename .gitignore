@@ -1,0 +1,20 @@
+# Data are NOT redistributed; download from the original sources (see README)
+Dataset*/
+Stage1*_Epochs/
+Stage*_Features/
+Stage*_Results/
+Stage*_Master/
+Stage*_Amplitude/
+Stage*_Metadata/
+Stage*_Specificity/
+Stage*_Overlap/
+Stage*_Leakage/
+Stage*_Riemannian/
+*.mat
+*.bdf
+*.edf
+# keep figures and result CSVs out unless explicitly added
+*.png
+*.pdf
+!figures/*.pdf
+!figures/*.png
